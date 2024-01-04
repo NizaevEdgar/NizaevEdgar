@@ -3,6 +3,7 @@
 - 👨‍💻 I like to learn new things, dreams and make dreams come true!
 
 - 📫 How to reach me: Telegram [`@edgar_nizaev`](https://t.me)
+                       Mail nizaev.edgar@gmail.com
 
 <!---
 NizaevEdgar/NizaevEdgar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
