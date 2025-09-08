@@ -1,5 +1,9 @@
 - 👋 Hi, I’m Nizaev Edgar aka @NizaevEdgar
-- 👀 I took a course in *Data Science* from **Yandex** and now I'm looking for myself in life.
+- 👀 I took a course in
+  
+   1. *Data Science* from **Yandex**
+   2. *ML Engineer* from **Innopolis University**
+  
 - 👨‍💻 I like to learn new things, dreams and make dreams come true!
 
 - 📫 How to reach me: Telegram [`@edgar_nizaev`](https://t.me)
